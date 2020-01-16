@@ -27,4 +27,3 @@ steps:
     zipAfterPublish: True
 
 - download: current
-  artifact: WebApp
